@@ -63,13 +63,17 @@ class TasksController < ApplicationController
 
   def search
     @search_value = params['search']['name']
+    @search_user = params['search']['user']
+    @search_category = params['search']['category']
     @tasks = Task.where("name like '%#{@search_value}%'")
     if @search_user.present?
       @tasks = @tasks.where(user_id: @search_user)
     end
+    if @search_category.present?
+      @tasks = @tasks.where(category_id: @search_category)
+    end
     render :index
   end
-
 
   private
     # Use callbacks to share common setup or constraints between actions.
