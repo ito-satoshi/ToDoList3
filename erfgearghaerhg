@@ -1,0 +1,29 @@
+[33mcommit 4c24a7eb4e48805d51906bef51458e450dbfdb0e[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 11:42:18 2016 +0900
+
+    オリジナリティの追加
+
+[33mcommit c7fbcc6d67221946f9732763005bb59caf88d3dd[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 11:36:58 2016 +0900
+
+    検索機能の向上
+
+[33mcommit 1dab91cce14509533b4013e18874c03fd2573d7c[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 09:57:01 2016 +0900
+
+    メニューの追加と検索機能の追加
+
+[33mcommit 75e6d14a1e9f839c6c21e38fdb03d58602b6bb16[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 09:01:26 2016 +0900
+
+    モデルの関連付けをする
+
+[33mcommit 69b02153202132bca7c46646e57f9235d286d030[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Tue Aug 30 13:17:06 2016 +0900
+
+    アプリケーションの土台をつくる
