@@ -1,0 +1,53 @@
+[33mcommit 392017dd524b18ec3c4f5d9430b49f0c9b8a087e[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Mon Sep 5 01:21:14 2016 +0900
+
+    herokupush
+
+[33mcommit 0315bb56a21862c90e170f01bb5c949620474ba8[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Mon Sep 5 00:47:46 2016 +0900
+
+    herokuへのpush修正
+
+[33mcommit bfe566a4a0c7aedf50bd4c1c3ff945a655088ada[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Mon Sep 5 00:06:49 2016 +0900
+
+    herokuへのpush完了
+
+[33mcommit 6fbfa97bc627d48e0da16e1b08fc5e8e3a2e35dd[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 20:27:02 2016 +0900
+
+    修正とherokuへのpush完了
+
+[33mcommit 4c24a7eb4e48805d51906bef51458e450dbfdb0e[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 11:42:18 2016 +0900
+
+    オリジナリティの追加
+
+[33mcommit c7fbcc6d67221946f9732763005bb59caf88d3dd[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 11:36:58 2016 +0900
+
+    検索機能の向上
+
+[33mcommit 1dab91cce14509533b4013e18874c03fd2573d7c[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 09:57:01 2016 +0900
+
+    メニューの追加と検索機能の追加
+
+[33mcommit 75e6d14a1e9f839c6c21e38fdb03d58602b6bb16[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Sun Sep 4 09:01:26 2016 +0900
+
+    モデルの関連付けをする
+
+[33mcommit 69b02153202132bca7c46646e57f9235d286d030[m
+Author: Ito Satoshi <satoshi-ito@outlook.jp>
+Date:   Tue Aug 30 13:17:06 2016 +0900
+
+    アプリケーションの土台をつくる
